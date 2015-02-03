@@ -1,0 +1,52 @@
+                           /*Nom:mahamadou Traore
+                           **code permanent:TRAM14038709
+                           cree le:19-octobre-2010*/
+                         /*feuille de style css pour le php */
+									
+
+
+h1{
+	 
+	 text-align: center;
+	 color:blue;
+}
+h2{
+	
+	 color:red;
+          text-align: center;
+}
+
+span{
+ text-align: center;
+    
+}
+table tr td{
+ text-align: center;
+ width: 20%;
+ height: 30px;
+
+
+}
+h3{text-align:  center;
+color: green;
+}
+table.bas{
+	width:100%;
+	 margin:inherit;
+       
+	 	  	
+}
+.droite{
+	 text-align:right;
+	  
+	
+}
+.gauche{
+	text-align:left;
+}
+
+.erreur{
+    text-align: center;
+    color:red;
+     font-size:80px;
+}
